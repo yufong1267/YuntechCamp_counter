@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.exe
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.pdb
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.exe
+c:\users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.exe.manifest
+C:\Users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.application
+C:\Users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.exe.manifest
+C:\Users\user\documents\visual studio 2015\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.application
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.exe.config
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.exe.manifest
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.application
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.exe
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\bin\Debug\Yuntecher_Counter.pdb
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.csprojAssemblyReference.cache
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.Form1.resources
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.Properties.Resources.resources
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.csproj.GenerateResource.cache
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.exe.manifest
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.application
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.exe
+E:\visual_studio_project\Projects\Yuntecher_Counter\Yuntecher_Counter\obj\Debug\Yuntecher_Counter.pdb
